@@ -1,4 +1,4 @@
-//create web server please
+//create web server using express
 //create router object
 //require express module
 var express = require('express');
